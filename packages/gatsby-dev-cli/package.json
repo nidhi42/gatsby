@@ -21,8 +21,8 @@
     "lodash": "^4.17.15",
     "request": "2.88.0",
     "signal-exit": "^3.0.2",
-    "verdaccio": "^4.3.5",
-    "yargs": "^8.0.2"
+    "verdaccio": "^4.6.0",
+    "yargs": "^15.0.1"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
