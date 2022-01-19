@@ -12,7 +12,7 @@
     "gatsby-plugin-react-helmet": "^3.0.6",
     "gatsby-plugin-sharp": "^2.0.20",
     "gatsby-source-filesystem": "^2.0.20",
-    "gatsby-source-shopify": "^2.0.13",
+    "gatsby-source-shopify": "^5.0.0",
     "gatsby-transformer-sharp": "^2.1.13",
     "prop-types": "^15.7.1",
     "react": "^16.8.1",
