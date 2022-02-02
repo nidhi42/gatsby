@@ -17,7 +17,7 @@
     "react-dom": "^16.8.6"
   },
   "dependencies": {
-    "@mdx-js/mdx": "^1.5.1",
+    "@mdx-js/mdx": "^2.0.0",
     "gatsby-core-utils": "^1.0.26",
     "gatsby-plugin-mdx": "^1.0.67",
     "gatsby-plugin-sharp": "^2.4.0",
