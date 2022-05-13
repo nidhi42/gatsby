@@ -22,7 +22,7 @@
     "request": "2.88.0",
     "signal-exit": "^3.0.2",
     "verdaccio": "^4.3.5",
-    "yargs": "^8.0.2"
+    "yargs": "^13.2.4"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
