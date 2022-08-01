@@ -31,7 +31,7 @@
     "is-valid-path": "^0.1.1",
     "lodash": "^4.17.15",
     "meant": "^1.0.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^3.2.10",
     "object.entries": "^1.1.0",
     "opentracing": "^0.14.4",
     "pretty-error": "^2.1.1",
