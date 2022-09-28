@@ -13,7 +13,7 @@
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
-    "gatsby": "^2.18.0",
+    "gatsby": "^4.0.0",
     "gatsby-plugin-mdx": "^1.0.57",
     "gatsby-source-filesystem": "^2.1.38",
     "gatsby-transformer-json": "^2.2.18",
