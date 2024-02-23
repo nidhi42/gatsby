@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "gatsby": "^2.18.25",
-    "gatsby-transformer-remark": "^2.6.48",
+    "gatsby-transformer-remark": "^6.0.0",
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
   },
