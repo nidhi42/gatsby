@@ -10,7 +10,7 @@
     "@loadable/component": "^5.11.0",
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
-    "@reach/skip-nav": "^0.6.2",
+    "@reach/skip-nav": "^0.18.0",
     "@styled-system/prop-types": "^5.1.4",
     "@styled-system/should-forward-prop": "^5.1.4",
     "@styled-system/theme-get": "^5.1.2",
