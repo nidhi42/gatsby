@@ -102,7 +102,7 @@
     "xstate": "^4.7.2",
     "zipkin": "^0.19.1",
     "zipkin-javascript-opentracing": "^2.0.1",
-    "zipkin-transport-http": "^0.19.1"
+    "zipkin-transport-http": "^0.22.0"
   },
   "keywords": [
     "gatsby"
