@@ -15,7 +15,7 @@
     "lodash": "^4.17.15",
     "mdast-util-definitions": "^1.2.5",
     "potrace": "^2.1.2",
-    "query-string": "^6.9.0",
+    "query-string": "^7.1.3",
     "unist-util-select": "^1.5.0",
     "unist-util-visit-parents": "^2.1.2"
   },
