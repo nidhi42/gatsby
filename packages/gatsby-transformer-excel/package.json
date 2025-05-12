@@ -7,7 +7,7 @@
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
-    "@babel/runtime": "^7.7.6",
+    "@babel/runtime": "^7.26.10",
     "xlsx": "^0.15.3"
   },
   "devDependencies": {
