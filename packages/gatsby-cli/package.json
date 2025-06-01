@@ -22,7 +22,7 @@
     "convert-hrtime": "^3.0.0",
     "core-js": "^2.6.11",
     "envinfo": "^7.5.0",
-    "execa": "^3.4.0",
+    "execa": "^9.6.0",
     "fs-exists-cached": "^1.0.0",
     "fs-extra": "^8.1.0",
     "gatsby-core-utils": "^1.0.26",
@@ -47,7 +47,7 @@
     "strip-ansi": "^5.2.0",
     "update-notifier": "^3.0.1",
     "uuid": "3.3.3",
-    "yargs": "^12.0.5",
+    "yargs": "^18.0.0",
     "yurnalist": "^1.1.1"
   },
   "devDependencies": {
