@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "@gatsbyjs",
   "dependencies": {
-    "gatsby": "^2.13.73",
+    "gatsby": "^4.22.0",
     "gatsby-source-filesystem": "^2.1.16",
     "gatsby-transformer-remark": "^2.6.19",
     "prop-types": "^15.7.2",
