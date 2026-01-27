@@ -8,9 +8,9 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.6",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "common-tags": "^1.8.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.23",
     "unist-util-visit": "^1.4.1"
   },
   "devDependencies": {
